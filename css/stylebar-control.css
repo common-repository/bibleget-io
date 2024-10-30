@@ -1,0 +1,21 @@
+.bibleget-buttonset .button span {
+    display: block;
+    font-weight: bold;
+}
+
+.bibleget-buttonset .button input {
+    height: 0; 
+    width: 0;
+}
+
+.bibleget-buttonset .button.strikethrough span {
+    text-decoration: line-through;
+}
+
+.bibleget-buttonset .button.underline span {
+    text-decoration: underline;
+}
+
+.bibleget-buttonset .button.italic span {
+    font-style: italic;
+}

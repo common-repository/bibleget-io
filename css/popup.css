@@ -1,0 +1,17 @@
+.bibleget-popup-trigger {
+	cursor: pointer;
+}
+.bibleget-quote-div.bibleget-popup {
+	display: none;
+	z-index: 999;
+	clear: both;
+}
+
+.ui-dialog-titlebar {
+	height: auto;
+}
+
+
+.ui-dialog .ui-dialog-titlebar-close {
+	background-color: transparent !important;
+}
